@@ -48,9 +48,9 @@ Cleaned and merged a 55,000+ row dataset covering 170 countries (1980–2019), t
 `Python (Pandas)` `SQL` `Excel`  
 Cleaned and standardized a rental market dataset, used SQL for exploratory analysis of pricing trends and city-level differences, and visualized affordability insights in Excel.
 
-### 💼 Job Tracker Application
-`Python` `Django` `SQL` `HTML` `CSS`  
-A web app that helps college students track internship applications, interviews, and offers, with user authentication and a relational database built on Django ORM.
+### 🚌 [OC Transpo Service Analysis](https://github.com/Gerno05/octranspo-sql-analysis)
+`PostgreSQL` `SQL` `Python`  
+Loaded OC Transpo's GTFS schedule feed (3.8 million stop times across 175 routes) into PostgreSQL and used SQL window functions to analyze route frequency, rush-hour patterns, weekend service cuts, and late-night service gaps across Ottawa.
 
 ## Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-alaneme-45285b286)
