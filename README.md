@@ -40,11 +40,11 @@
 
 ## Featured Projects 🚀
 
-### 🌍 Global Energy & CO₂ Emissions Analysis Dashboard
+### 🌍 [Global Energy & CO₂ Emissions Analysis Dashboard](https://github.com/Gerno05/Energy)
 `Python` `Tableau`  
 Cleaned and merged a 55,000+ row dataset covering 170 countries (1980–2019), then built an interactive Tableau dashboard with a world map, emissions trend line, Top 10 countries chart, and dynamic year filters.
 
-### 🏠 Rental Market Analysis
+### 🏠 [Rental Market Analysis](https://github.com/Gerno05/RENTAL)
 `Python (Pandas)` `SQL` `Excel`  
 Cleaned and standardized a rental market dataset, used SQL for exploratory analysis of pricing trends and city-level differences, and visualized affordability insights in Excel.
 
