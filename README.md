@@ -8,7 +8,6 @@
 - 📊 I enjoy turning messy data into clear insights with **Python, SQL, and Tableau**
 - 🔬 I was a **Research Lead** on a Riipen project, analyzing how a client organization could grow its social media presence and digital outreach
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/)
   - More advanced data analytics and dashboarding
 - 🗣️ Bilingual in English, proficient in French
 
