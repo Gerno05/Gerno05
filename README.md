@@ -4,7 +4,7 @@
 ---
 
 ## About me
-- 🎓 I'm an **Information Technology** student at **Carleton University** (with a certification in Library Services from Algonquin College), graduating **April 2027**
+- 🎓 I'm an **Information Technology** student at **Carleton University** (with a certification in Library Services from Algonquin College), graduating **September 2028**
 - 📊 I enjoy turning messy data into clear insights with **Python, SQL, and Tableau**
 - 🔬 I was a **Research Lead** on a Riipen project, analyzing how a client organization could grow its social media presence and digital outreach
 - 🌱 I'm currently learning:
@@ -42,7 +42,7 @@
 
 ### 🌍 [Global Energy & CO₂ Emissions Analysis Dashboard](https://github.com/Gerno05/Energy)
 `Python` `Tableau`  
-Cleaned and merged a 55,000+ row dataset covering 170 countries (1980–2019), then built an interactive Tableau dashboard with a world map, emissions trend line, Top 10 countries chart, and dynamic year filters.
+Cleaned and merged a 55,440-row dataset covering 202 countries (1980–2019), then built an interactive Tableau dashboard with a world map, emissions trend line, Top 10 countries chart, and dynamic year filters.
 
 ### 🏠 [Rental Market Analysis](https://github.com/Gerno05/RENTAL)
 `Python (Pandas)` `SQL` `Excel`  
