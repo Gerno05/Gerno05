@@ -1,5 +1,6 @@
 <h1 align="center">Hey! I'm George Alaneme 👋</h1>
 <h3 align="center">Information Technology Student @ Carleton University | Data Analysis & Visualization</h3>
+<p align="center"><a href="https://gerno05.github.io"><b>🌐 View my portfolio → gerno05.github.io</b></a></p>
 
 ---
 
@@ -53,4 +54,5 @@ Cleaned and standardized a rental market dataset, used SQL for exploratory analy
 Loaded OC Transpo's GTFS schedule feed (3.8 million stop times across 175 routes) into PostgreSQL and used SQL window functions to analyze route frequency, rush-hour patterns, weekend service cuts, and late-night service gaps across Ottawa.
 
 ## Connect with me 🤝
+[![Portfolio](https://img.shields.io/badge/Portfolio-gerno05.github.io-10264A?style=for-the-badge&logo=githubpages&logoColor=white)](https://gerno05.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-alaneme-45285b286)
